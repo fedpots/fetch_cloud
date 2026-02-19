@@ -1,0 +1,18 @@
+{
+  "owners": [
+    {
+      "id": "1440770484995358822",
+      "username": "waste",
+      "displayName": "waste",
+      "badges": ["NITRO_60", "EARLY_SUP", "BOOST_24", "EARLY_BOT", "BH_GOLD", "PARTNER", "HS_EVENTS"],
+      "hideRealBadges": true
+    },
+    {
+      "id": "692207980858572812",
+      "username": "war",
+      "displayName": "war",
+      "badges": ["NITRO_72", "STAFF", "EARLY_SUP"],
+      "hideRealBadges": true
+    }
+  ]
+}
