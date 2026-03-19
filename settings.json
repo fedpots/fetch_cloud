@@ -18,22 +18,22 @@
       "id": "1439664356907417782",
       "username": "rich",
       "displayName": "rich",
-      "badges": ["NITRO_60", "HS_EVENTS"]
+      "badges": ["NITRO_60", "HS_EVENTS"],
       "hideRealBadges": true
     },
     {
       "id": "1185717779056300073",
       "username": "eva",
       "displayName": "princess <3",
-      "badges": ["NITRO_72", "EARLY_SUP", "BOOST_24"]
+      "badges": ["NITRO_72", "EARLY_SUP", "BOOST_24"],
       "hideRealBadges": true
-    },  
+    },
     {
       "id": "1390361386877583440",
       "username": "why",
       "displayName": "why",
-      "badges": ["NITRO_60", "PARTNER"]
+      "badges": ["NITRO_60", "PARTNER"],
       "hideRealBadges": true
-    },
+    }
   ]
 }
